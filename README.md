@@ -1,5 +1,8 @@
+# pypawn-annotations
+https://github.com/bonkibon-education/pypawn-annotations
+
 # pypawn-annotations-examples
-Examples of Pypawn annotations
+Examples of Pypawn annotations  
 
 ## Tkinter приложение
 ### Пример: ввод текста и вывод аннотации
